@@ -59,7 +59,7 @@ body {
         color: #489c79;
     }
 
-    input, texture, select, button {
+    texture, select, button {
         font-family: system-ui;
     }
 
